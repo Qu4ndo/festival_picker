@@ -5,6 +5,8 @@ A Script to help you sort out which festival provide you the most value for your
 
 With an given Input Data (Name of festival, acts, genre, price of tickets) it should rank each festival to specific categories, for example most Value, most Acts, best fit for your Taste, etc.
 
+**Maybe:** Make it a Docker Container to Selfhost all...
+
 ## How?
 
   - Database with all Data for all festivals
