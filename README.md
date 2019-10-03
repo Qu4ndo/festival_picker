@@ -9,7 +9,7 @@ With an given Input Data (Name of festival, acts, genre, price of tickets) it sh
 
 ## How?
 
-  - Database with Data for all festivals
+  - Database (probably CSV) with Data for all festivals
   - Maybe a webscraper to fill in the Data
   - Python script to sort and output
   - GUI?
