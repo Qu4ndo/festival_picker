@@ -1,0 +1,8 @@
+What steps?
+
+- Search for files (csv) in folder
+- Create and manipulate CSV-Database
+- Calculate Datasets
+- Output/Display Data
+
+Important: GUI probably needed!
