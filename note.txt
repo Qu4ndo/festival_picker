@@ -6,3 +6,9 @@ What steps?
 - Output/Display Data
 
 Important: GUI probably needed!
+
+
+Import the CSV Databases:
+
+- Start Bash script to search folder for new csv files (save into file)
+- Python reads file, import all names and open all CSV files
