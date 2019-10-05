@@ -3,5 +3,5 @@ import time
 
 
 #Search folder for new CSV Data files
-subprocess.call("./files/search.sh")
+subprocess.call("./search.sh")
 time.sleep(5)
